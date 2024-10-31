@@ -1,1 +1,1 @@
-This is a repository containing the IMU data retrieval (IMU_DATA_RETRIEVAL.ino) and spinal visualization (Euler Method) code files (written in Arduino Language and Python, respectively). 
+This repository contains sample code files that power the SpineSync's core functions, from IMU data retrieval (IMU_DATA_RETRIEVAL.ino) to spinal visualization (EulerMethodCore.py).
